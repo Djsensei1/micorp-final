@@ -3,6 +3,137 @@ title: 'Terms and Conditions'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
+_Last updated_: December 10, 2024
+
+Please read these Terms and Conditions carefully before using our Service.
+
+## Interpretation and Definitions
+
+### Interpretation
+
+The words with initial letters capitalized have meanings defined under the following conditions. These definitions shall apply regardless of whether they appear in singular or plural forms.
+
+### Definitions
+
+For the purposes of these Terms and Conditions:
+
+- **Affiliate** means an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest, or other securities entitled to vote for election of directors or other managing authority.
+
+- **Country** refers to: Rwanda.
+
+- **Company** (referred to as either "the Company," "We," "Us," or "Our" in this Agreement) refers to Mirror Corporation, Kigali, Rwanda.
+
+- **Device** means any device that can access the Service, such as a computer, cellphone, or digital tablet.
+
+- **Service** refers to the Website and other digital tools and services provided by Mirror Corporation.
+
+- **Terms and Conditions** (also referred to as "Terms") mean these Terms and Conditions, which constitute the entire agreement between You and the Company regarding the use of the Service.
+
+- **Third-party Social Media Service** means any services or content (including data, information, products, or services) provided by a third party that may be displayed, included, or made available through the Service.
+
+- **Website** refers to Mirror Corporation, accessible at [https://micorp.pro](https://micorp.pro).
+
+- **You** means the individual accessing or using the Service or the company or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+
+## Acknowledgment
+
+These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms set out the rights and obligations of all users regarding the use of the Service.
+
+Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms apply to all visitors, users, and others who access or use the Service.
+
+By accessing or using the Service, You agree to be bound by these Terms. If You disagree with any part of these Terms, You may not access the Service.
+
+You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
+
+Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy outlines how we collect, use, and disclose Your personal information when You use the Application or the Website. Please review it carefully.
+
+## Links to Other Websites
+
+Our Service may contain links to third-party websites or services that are not owned or controlled by the Company.
+
+The Company assumes no responsibility for the content, privacy policies, or practices of any third-party websites or services. By using these links, You agree that the Company is not liable for any loss or damage caused by or in connection with their use.
+
+We recommend reviewing the terms and privacy policies of any third-party websites You visit.
+
+## Termination
+
+We may terminate or suspend Your access immediately, without prior notice or liability, for any reason, including if You breach these Terms.
+
+Upon termination, Your right to use the Service will cease immediately.
+
+## Limitation of Liability
+
+To the maximum extent permitted by applicable law, the Company and its suppliers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of profits, data, or other intangible losses arising from Your use of the Service.
+
+The Company’s total liability shall not exceed the amount paid by You through the Service or $100 if no purchase has been made.
+
+## "AS IS" and "AS AVAILABLE" Disclaimer
+
+The Service is provided "AS IS" and "AS AVAILABLE" without warranties of any kind, either express or implied. The Company does not warrant that the Service will be uninterrupted, error-free, secure, or free of harmful components.
+
+Some jurisdictions do not allow certain warranty exclusions. In such cases, the limitations herein shall apply to the maximum extent permitted by law.
+
+## Governing Law
+
+These Terms and Your use of the Service shall be governed by the laws of Rwanda, excluding its conflicts of law rules.
+
+## Dispute Resolution
+
+If You have any dispute or concern about the Service, You agree to first attempt resolution informally by contacting the Company.
+
+## Severability and Waiver
+
+### Severability
+
+If any provision of these Terms is deemed unenforceable or invalid, it will be interpreted to achieve its intent to the greatest extent possible, and the remaining provisions will continue in full force and effect.
+
+### Waiver
+
+Failure to enforce a provision or right under these Terms does not constitute a waiver of future enforcement of such provision or right.
+
+## Changes to These Terms and Conditions
+
+The Company reserves the right to modify or replace these Terms at any time. Significant changes will be announced at least 30 days prior to implementation.
+
+By continuing to use the Service after the changes take effect, You agree to be bound by the updated Terms.
+
+## Contact Us
+
+If you have any questions about these Terms and Conditions, You can contact us:
+
+- By email: contact@micorp.pro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ---
+title: 'Terms and Conditions'
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
 _Last updated_: January 06, 2023
 
 Please read these terms and conditions carefully before using Our Service.
@@ -117,4 +248,4 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 If you have any questions about these Terms and Conditions, You can contact us:
 
-- By email: somecoolemail@domain.com
+- By email: somecoolemail@domain.com -->

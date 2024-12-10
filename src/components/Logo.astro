@@ -3,7 +3,11 @@ import { SITE } from 'astrowind:config';
 ---
 
 <span
-  class="self-center ml-2 rtl:ml-0 rtl:mr-2 text-2xl md:text-xl font-bold text-gray-900 whitespace-nowrap dark:text-white"
+  class="flex items-center space-x-2 rtl:space-x-reverse self-center ml-2 rtl:ml-0 rtl:mr-2 text-2xl md:text-xl font-bold text-gray-900 whitespace-nowrap dark:text-white"
 >
-  🚀 {SITE?.name}
+  <div>
+    <img src="/src/assets/favicons/logo-only.png" class="w-10" />
+  </div>
+  <div>{SITE?.name}</div>
 </span>
+
