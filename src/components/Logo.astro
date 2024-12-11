@@ -1,13 +1,13 @@
 ---
 import { SITE } from 'astrowind:config';
+import logo from '/src/assets/favicons/logo-only.png';
 ---
 
 <span
   class="flex items-center space-x-2 rtl:space-x-reverse self-center ml-2 rtl:ml-0 rtl:mr-2 text-2xl md:text-xl font-bold text-gray-900 whitespace-nowrap dark:text-white"
 >
   <div>
-    <img src="/src/assets/favicons/logo-only.png" class="w-10" alt="Micorp Logo" loading="lazy"/>
+    <img src={logo.src} class="w-10" alt="Micorp Logo" loading="lazy" />
   </div>
   <div>{SITE?.name}</div>
 </span>
-
