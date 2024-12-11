@@ -1,4 +1,5 @@
 import { getPermalink } from './utils/permalinks';
+import logoFooter from '/src/assets/favicons/logo-only.png';
 
 export const headerData = {
   links: [
@@ -182,7 +183,7 @@ export const footerData = {
     { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/Mi-corp/' },
   ],
   footNote: `
-    <img class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 rtl:mr-0 rtl:ml-1.5 float-left rtl:float-right rounded-sm" src="/src/assets/favicons/logo-only.png" alt="Micorp logo" loading="lazy"/>
+    <img class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 rtl:mr-0 rtl:ml-1.5 float-left rtl:float-right rounded-sm" src="/logo-only.png" alt="Logo" loading="lazy" />
     Made by <a class="text-blue-600 underline dark:text-muted" href="https://micorp.pro/"> Micorp</a> · All rights reserved.
   `,
 };
