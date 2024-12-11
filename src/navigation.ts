@@ -123,7 +123,7 @@ export const footerData = {
     {
       title: 'Product',
       links: [
-        { text: 'Coming soon', href: '#' },
+        { text: 'Coming soon', href: 'https://www.instagram.com/mirror_corporation/' },
         // { text: 'Features', href: '#' },
         // { text: 'Security', href: '#' },
         // { text: 'Team', href: '#' },
@@ -136,7 +136,7 @@ export const footerData = {
     {
       title: 'Platform',
       links: [
-        { text: 'Coming soon', href: '#' },
+        { text: 'Coming soon', href: 'https://www.instagram.com/mirror_corporation/' },
         // { text: 'Developer API', href: '#' },
         // { text: 'Partners', href: '#' },
         // { text: 'Atom', href: '#' },
@@ -147,7 +147,7 @@ export const footerData = {
     {
       title: 'Support',
       links: [
-        { text: 'Coming soon', href: '#' },
+        { text: 'Coming soon', href: 'https://www.instagram.com/mirror_corporation/' },
         // { text: 'Docs', href: '#' },
         // { text: 'Community Forum', href: '#' },
         // { text: 'Professional Services', href: '#' },
@@ -175,14 +175,14 @@ export const footerData = {
     { text: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
   socialLinks: [
-    { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
+    { ariaLabel: 'X', icon: 'tabler:brand-x', href: 'https://www.instagram.com/mirror_corporation/' },
     { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: 'https://www.instagram.com/mirror_corporation/' },
     // { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
     // { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
     { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/Mi-corp/' },
   ],
   footNote: `
-    <img class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 rtl:mr-0 rtl:ml-1.5 float-left rtl:float-right rounded-sm" src="/src/assets/favicons/logo-only.png" alt="Micorp logo" loading="lazy"></img>
+    <img class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 rtl:mr-0 rtl:ml-1.5 float-left rtl:float-right rounded-sm" src="/src/assets/favicons/logo-only.png" alt="Micorp logo" loading="lazy"/>
     Made by <a class="text-blue-600 underline dark:text-muted" href="https://micorp.pro/"> Micorp</a> · All rights reserved.
   `,
 };
